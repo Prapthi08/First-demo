@@ -1,4 +1,4 @@
 # First-demo
-My first repo
+My first repository 
 <br>
 Author-Prapthi shetty
